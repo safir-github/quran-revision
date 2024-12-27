@@ -1,28 +1,16 @@
 <div class="sourate-detail container-fluid">
     <h1 class="text-center">{{ sourate?.nom }}</h1>
-
   
-
     <div class="text-arabe">
-
-
-      <div *ngFor="let verset of sourate?.versets" class="verset">
-
-        <p>{{ verset.numero }}. {{ verset.texte }}</p>
-
+      <h3>Texte en arabe :</h3>
+      <div class="verset-container">
+        <div class="verset" *ngFor="let verset of sourate?.versets">
+          <span class="numero">{{ verset.numero }}</span>
+          <span class="texte">{{ verset.texte }}</span>
+        </div>
       </div>
-
     </div>
-
   
-    
-
-    
-
-  
-
     <a routerLink="/" class="btn btn-primary mt-4">Retour à la liste des sourates</a>
-
   </div>
-
   

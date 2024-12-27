@@ -1,106 +1,87 @@
 .sourate-detail {
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Centre les enfants verticalement */
-    align-items: center; /* Centre les enfants horizontalement */
+    align-items: center;
     text-align: center;
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #A52A2A; /* Couleur de fond douce */
+    background-color: #e0f7fa; /* Couleur douce */
     padding: 20px;
   
     h1 {
-      color: #F5DEB3;
+      color: #2c3e50;
       font-size: 2.5rem;
       margin-bottom: 20px;
     }
   
     .text-arabe {
       margin-bottom: 20px;
-      background-color: #F5DEB3; /* Couleur de fond douce */
+      background-color: #f9f1e7;
       padding: 20px;
       border: 1px solid #e0d8c8;
       border-radius: 8px;
-      text-align: center; /* Centrer le texte en arabe */
       width: 60%;
+      text-align: right; /* Aligner le texte à droite */
+      direction: rtl; /* Direction du texte arabe */
   
       @media (max-width: 768px) {
-        width: 90%; /* Définir la largeur pour les écrans mobiles */
+        width: 90%; /* Adapte la largeur pour mobile */
       }
   
       h3 {
-        color: #8e5a3c; /* Couleur principale des titres */
+        color: #8e5a3c;
         font-size: 1.8rem;
         margin-bottom: 15px;
-        font-family: 'Amiri', serif; /* Police arabe élégante */
+        font-family: 'Amiri Quran', serif; /* Police pour l'arabe */
       }
   
-      .verset p {
-        margin: 0; /* Supprime les marges */
-        padding: 10px 0; /* Espacement vertical léger */
-        line-height: 2.5; /* Ajuste l'interligne */
-        font-size: 2rem; /* Agrandit la taille du texte */
-        text-align: right; /* Aligne le texte à droite pour l'arabe */
-        direction: rtl; /* Définit la direction de lecture pour l'arabe */
+      .verset-container {
+        display: flex;
+        flex-direction: column;
+        gap: 10px; /* Espacement entre les versets */
+      }
+  
+      .verset {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px;
+        line-height: 2.5;
+        font-size: 1.8rem;
         color: #2c3e50;
-        font-family: 'Amiri', serif; /* Police arabe */
-      }
-    }
   
-    .text-traduction {
-      margin-bottom: 20px;
-      background-color: #f9f1e7;
-      padding: 15px;
-      border: 1px solid #e0d8c8;
-      border-radius: 8px;
-      text-align: justify;
+        .numero {
+          background-color: #fde9d2;
+          color: #8e5a3c;
+          border-radius: 50%;
+          width: 40px;
+          height: 40px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-weight: bold;
+          margin-left: 10px; /* Espacement entre le numéro et le texte */
+        }
   
-      h3 {
-        color: #8e5a3c;
-        font-size: 1.5rem;
-        margin-bottom: 10px;
-      }
-  
-      p {
-        font-size: 1.2rem;
-        color: #34495e;
-      }
-    }
-  
-    .audio-player {
-      margin-top: 20px;
-  
-      h3 {
-        color: #8e5a3c;
-        font-size: 1.5rem;
-      }
-  
-      audio {
-        width: 100%;
-        max-width: 400px;
-        border: 1px solid #e0d8c8;
-        border-radius: 8px;
+        .texte {
+          flex: 1;
+          text-align: right; /* Texte aligné à droite */
+          font-family: 'Amiri Quran', serif;
+        }
       }
     }
   
     .btn {
-      background-color: #F5DEB3;
-      color: black;
+      background-color: #8e5a3c;
+      color: white;
       text-decoration: none;
       padding: 10px 20px;
       border-radius: 8px;
       font-size: 1rem;
-      margin-top: 20px;
   
       &:hover {
-        transform: scale(1.05);
+        background-color: #6f452e;
         text-decoration: none;
-      }
-    }
-  
-    @media (max-width: 768px) {
-      .text-arabe p {
-        font-size: 1.5rem; /* Taille du texte en arabe pour mobile */
       }
     }
   }
