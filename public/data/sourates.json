@@ -1,0 +1,310 @@
+[
+  {
+    "numero": 114,
+    "nom": "An-Nas",
+    "versets": [
+      { "numero": 1, "texte": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ" },
+      { "numero": 2, "texte": "مَلِكِ النَّاسِ" },
+      { "numero": 3, "texte": "إِلَٰهِ النَّاسِ" },
+      { "numero": 4, "texte": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ" },
+      { "numero": 5, "texte": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ" },
+      { "numero": 6, "texte": "مِنَ الْجِنَّةِ وَالنَّاسِ" }
+    ],
+    "traduction": "Dis : \u00ab Je cherche protection auprès du Seigneur des hommes, Roi des hommes, Dieu des hommes, contre le mal du mauvais conseiller, furtif, qui souffle le mal dans les poitrines des hommes, qu’il (le conseiller) soit un djinn, ou un humain \u00bb.",
+    "audio": "assets/audio/an-nas.mp3"
+  },
+  {
+    "numero": 113,
+    "nom": "Al-Falaq",
+    "arabe": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ...",
+    "traduction": "Dis : \u00ab Je cherche protection auprès du Seigneur de l’aube naissante...",
+    "audio": "assets/audio/al-falaq.mp3"
+  },
+  {
+    "numero": 112,
+    "nom": "Al-Ikhlas",
+    "arabe": "قُلْ هُوَ اللَّهُ أَحَدٌ...",
+    "traduction": "Dis : \u00ab Il est Allah, Unique...",
+    "audio": "assets/audio/al-ikhlas.mp3"
+  },
+  {
+    "numero": 111,
+    "nom": "Al-Masad",
+    "arabe": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ...",
+    "traduction": "Que périssent les deux mains d’Abu Lahab et que lui-même périsse...",
+    "audio": "assets/audio/al-masad.mp3"
+  },
+  {
+    "numero": 110,
+    "nom": "An-Nasr",
+    "arabe": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ...",
+    "traduction": "Lorsque vient le secours d’Allah ainsi que la victoire...",
+    "audio": "assets/audio/an-nasr.mp3"
+  },
+  {
+    "numero": 109,
+    "nom": "Al-Kafirun",
+    "arabe": "قُلْ يَا أَيُّهَا الْكَافِرُونَ...",
+    "traduction": "Dis : \u00ab \u00d4 vous les infidèles...",
+    "audio": "assets/audio/al-kafirun.mp3"
+  },
+  {
+    "numero": 108,
+    "nom": "Al-Kawthar",
+    "arabe": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ...",
+    "traduction": "Certes, Nous t’avons accordé l’abondance...",
+    "audio": "assets/audio/al-kawthar.mp3"
+  },
+  {
+    "numero": 107,
+    "nom": "Al-Ma'un",
+    "arabe": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ...",
+    "traduction": "Vois-tu celui qui traite de mensonge la rétribution ?...",
+    "audio": "assets/audio/al-maun.mp3"
+  },
+  {
+    "numero": 106,
+    "nom": "Quraish",
+    "arabe": "لِإِيلَافِ قُرَيْشٍ...",
+    "traduction": "Pour la protection des Quraish...",
+    "audio": "assets/audio/quraish.mp3"
+  },
+  {
+    "numero": 105,
+    "nom": "Al-Fil",
+    "arabe": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ...",
+    "traduction": "N’as-tu pas vu comment ton Seigneur a agi envers les gens de l’Éléphant ?...",
+    "audio": "assets/audio/al-fil.mp3"
+  },
+  {
+    "numero": 104,
+    "nom": "Al-Humazah",
+    "arabe": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ...",
+    "traduction": "Malheur à tout dénigreur calomniateur...",
+    "audio": "assets/audio/al-humazah.mp3"
+  },
+  {
+    "numero": 103,
+    "nom": "Al-Asr",
+    "arabe": "وَالْعَصْرِ...",
+    "traduction": "Par le Temps !...",
+    "audio": "assets/audio/al-asr.mp3"
+  },
+  {
+    "numero": 102,
+    "nom": "At-Takathur",
+    "arabe": "أَلْهَاكُمُ التَّكَاثُرُ...",
+    "traduction": "La course aux richesses vous distrait...",
+    "audio": "assets/audio/at-takathur.mp3"
+  },
+  {
+    "numero": 101,
+    "nom": "Al-Qari'ah",
+    "arabe": "الْقَارِعَةُ...",
+    "traduction": "Le fracas !...",
+    "audio": "assets/audio/al-qariah.mp3"
+  },
+  {
+    "numero": 100,
+    "nom": "Al-Adiyat",
+    "arabe": "وَالْعَادِيَاتِ ضَبْحًا...",
+    "traduction": "Par les coursiers qui halètent...",
+    "audio": "assets/audio/al-adiyat.mp3"
+  },
+  {
+    "numero": 99,
+    "nom": "Az-Zalzalah",
+    "arabe": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا...",
+    "traduction": "Lorsque la terre tremblera de son tremblement...",
+    "audio": "assets/audio/az-zalzalah.mp3"
+  },
+  {
+    "numero": 98,
+    "nom": "Al-Bayyina",
+    "arabe": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا...",
+    "traduction": "Les infidèles parmi les gens du Livre et les associateurs...",
+    "audio": "assets/audio/al-bayyina.mp3"
+  },
+  {
+    "numero": 97,
+    "nom": "Al-Qadr",
+    "arabe": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ...",
+    "traduction": "Nous l’avons certes, fait descendre pendant la Nuit du Destin...",
+    "audio": "assets/audio/al-qadr.mp3"
+  },
+  {
+    "numero": 96,
+    "nom": "Al-'Alaq",
+    "arabe": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ...",
+    "traduction": "Lis, au nom de ton Seigneur qui a créé...",
+    "audio": "assets/audio/al-alaq.mp3"
+  },
+  {
+    "numero": 95,
+    "nom": "At-Tin",
+    "arabe": "وَالتِّينِ وَالزَّيْتُونِ...",
+    "traduction": "Par le figuier et l’olivier...",
+    "audio": "assets/audio/at-tin.mp3"
+  },
+  {
+    "numero": 94,
+    "nom": "Ash-Sharh",
+    "arabe": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ...",
+    "traduction": "N’avons-Nous pas ouvert pour toi ta poitrine ?...",
+    "audio": "assets/audio/ash-sharh.mp3"
+  },
+  {
+    "numero": 93,
+    "nom": "Ad-Duha",
+    "arabe": "وَالضُّحَى...",
+    "traduction": "Par le jour montant...",
+    "audio": "assets/audio/ad-duha.mp3"
+  },
+  {
+    "numero": 92,
+    "nom": "Al-Lail",
+    "arabe": "وَاللَّيْلِ إِذَا يَغْشَى...",
+    "traduction": "Par la nuit quand elle couvre tout !...",
+    "audio": "assets/audio/al-lail.mp3"
+  },
+  {
+    "numero": 91,
+    "nom": "Ash-Shams",
+    "arabe": "وَالشَّمْسِ وَضُحَاهَا...",
+    "traduction": "Par le soleil et sa clarté...",
+    "audio": "assets/audio/ash-shams.mp3"
+  },
+  {
+    "numero": 90,
+    "nom": "Al-Balad",
+    "arabe": "لَا أُقْسِمُ بِهَذَا الْبَلَدِ...",
+    "traduction": "Non ! Je jure par cette ville...",
+    "audio": "assets/audio/al-balad.mp3"
+  },
+  {
+    "numero": 89,
+    "nom": "Al-Fajr",
+    "arabe": "وَالْفَجْرِ...",
+    "traduction": "Par l’aube...",
+    "audio": "assets/audio/al-fajr.mp3"
+  },
+  {
+    "numero": 88,
+    "nom": "Al-Ghashiyah",
+    "arabe": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ...",
+    "traduction": "T’est-il parvenu le récit de l’enveloppante ?...",
+    "audio": "assets/audio/al-ghashiyah.mp3"
+  },
+  {
+    "numero": 87,
+    "nom": "Al-A'la",
+    "arabe": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى...",
+    "traduction": "Glorifie le nom de ton Seigneur, le Très-Haut...",
+    "audio": "assets/audio/al-ala.mp3"
+  },
+  {
+    "numero": 86,
+    "nom": "At-Tariq",
+    "arabe": "وَالسَّمَاءِ وَالطَّارِقِ...",
+    "traduction": "Par le ciel et par l’astre nocturne !...",
+    "audio": "assets/audio/at-tariq.mp3"
+  },
+  {
+    "numero": 85,
+    "nom": "Al-Buruj",
+    "arabe": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ...",
+    "traduction": "Par le ciel aux constellations...",
+    "audio": "assets/audio/al-buruj.mp3"
+  },
+  {
+    "numero": 84,
+    "nom": "Al-Inshiqaq",
+    "arabe": "إِذَا السَّمَاءُ انشَقَّتْ...",
+    "traduction": "Quand le ciel se fendra...",
+    "audio": "assets/audio/al-inshiqaq.mp3"
+  },
+  {
+    "numero": 83,
+    "nom": "Al-Mutaffifin",
+    "arabe": "وَيْلٌ لِلْمُطَفِّفِينَ...",
+    "traduction": "Malheur aux fraudeurs...",
+    "audio": "assets/audio/al-mutaffifin.mp3"
+  },
+  {
+    "numero": 82,
+    "nom": "Al-Infitar",
+    "arabe": "إِذَا السَّمَاءُ انْفَطَرَتْ...",
+    "traduction": "Quand le ciel se fendra...",
+    "audio": "assets/audio/al-infitar.mp3"
+  },
+  {
+    "numero": 81,
+    "nom": "At-Takwir",
+    "arabe": "إِذَا الشَّمْسُ كُوِّرَتْ...",
+    "traduction": "Quand le soleil sera enroulé...",
+    "audio": "assets/audio/at-takwir.mp3"
+  },
+  {
+    "numero": 80,
+    "nom": "Abasa",
+    "arabe": "عَبَسَ وَتَوَلَّى...",
+    "traduction": "Il s’est renfrogné et il s’est écarté...",
+    "audio": "assets/audio/abasa.mp3"
+  },
+  {
+    "numero": 79,
+    "nom": "An-Nazi'at",
+    "arabe": "وَالنَّازِعَاتِ غَرْقًا...",
+    "traduction": "Par ceux qui arrachent violemment...",
+    "audio": "assets/audio/an-naziat.mp3"
+  },
+  {
+    "numero": 78,
+    "nom": "An-Naba",
+    "versets": [
+      { "numero": 1, "texte": "عَمَّ يَتَسَاءَلُونَ" },
+      { "numero": 2, "texte": "عَنِ النَّبَإِ الْعَظِيمِ" },
+      { "numero": 3, "texte": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ" },
+      { "numero": 4, "texte": "كَلَّا سَيَعْلَمُونَ" },
+      { "numero": 5, "texte": "ثُمَّ كَلَّا سَيَعْلَمُونَ" },
+      { "numero": 6, "texte": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا" },
+      { "numero": 7, "texte": "وَالْجِبَالَ أَوْتَادًا" },
+      { "numero": 8, "texte": "وَخَلَقْنَاكُمْ أَزْوَاجًا" },
+      { "numero": 9, "texte": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا" },
+      { "numero": 10, "texte": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا" },
+      { "numero": 11, "texte": "وَجَعَلْنَا النَّهَارَ مَعَاشًا" },
+      { "numero": 12, "texte": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا" },
+      { "numero": 13, "texte": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا" },
+      { "numero": 14, "texte": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا" },
+      { "numero": 15, "texte": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا" },
+      { "numero": 16, "texte": "وَجَنَّاتٍ أَلْفَافًا" },
+      { "numero": 17, "texte": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا" },
+      { "numero": 18, "texte": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا" },
+      { "numero": 19, "texte": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا" },
+      { "numero": 20, "texte": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا" },
+      { "numero": 21, "texte": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا" },
+      { "numero": 22, "texte": "لِلطَّاغِينَ مَآبًا" },
+      { "numero": 23, "texte": "لَابِثِينَ فِيهَا أَحْقَابًا" },
+      { "numero": 24, "texte": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا" },
+      { "numero": 25, "texte": "إِلَّا حَمِيمًا وَغَسَّاقًا" },
+      { "numero": 26, "texte": "جَزَاءً وِفَاقًا" },
+      { "numero": 27, "texte": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا" },
+      { "numero": 28, "texte": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا" },
+      { "numero": 29, "texte": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا" },
+      { "numero": 30, "texte": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا" },
+      { "numero": 31, "texte": "إِنَّ لِلْمُتَّقِينَ مَفَازًا" },
+      { "numero": 32, "texte": "حَدَائِقَ وَأَعْنَابًا" },
+      { "numero": 33, "texte": "وَكَوَاعِبَ أَتْرَابًا" },
+      { "numero": 34, "texte": "وَكَأْسًا دِهَاقًا" },
+      { "numero": 35, "texte": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا" },
+      { "numero": 36, "texte": "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا" },
+      { "numero": 37, "texte": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا" },
+      { "numero": 38, "texte": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَنُ وَقَالَ صَوَابًا" },
+      { "numero": 39, "texte": "ذَلِكَ الْيَوْمُ الْحَقُّ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ مَآبًا" },
+      { "numero": 40, "texte": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا" }
+    ],
+    "traduction": "Sur quoi s’interrogent-ils mutuellement ?...",
+    "audio": "assets/audio/an-naba.mp3"
+  }
+  ]
+  
