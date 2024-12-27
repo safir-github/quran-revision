@@ -1,0 +1,25 @@
+<div class="home container-fluid">
+    <h1 class="text-center">Bienvenue !</h1>
+    <div class="text-center">
+      <div class="centered-div">
+        <p class="justify-text">
+          Ce projet vous permet de réviser les sourates du Quran en consultant les sourates en arabe,
+          les traductions et en écoutant les récitations.
+        </p>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col-md-4 col-sm-6 col-12 mb-4" *ngFor="let sourate of sourates">
+        <div class="card shadow-sm">
+          <a [routerLink]="'/sourate/' + sourate.numero" class="card-body d-flex align-items-center text-decoration-none">
+            <div class="sourate-number me-3">{{ sourate.numero }}</div>
+            <div>
+              <h5 class="card-title mb-1">{{ sourate.nom }}</h5>
+              
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
