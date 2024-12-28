@@ -503,5 +503,109 @@
     ],
     "traduction": "Béni soit Celui dans la main duquel est la royauté...",
     "audio": "assets/audio/al-mulk.mp3"
+  },
+  {
+    "numero": 66,
+    "nom": "At-Tahrim",
+    "titre": "سورة التحريم",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p560.png" },
+      { "numero": 2, "image": "/quran-revision/img/p561.png" }
+    ],
+    "traduction": "Ô Prophète ! Pourquoi interdis-tu ce qu'Allah t'a permis...",
+    "audio": "assets/audio/at-tahrim.mp3"
+  },
+  {
+    "numero": 65,
+    "nom": "At-Talaq",
+    "titre": "سورة الطلاق",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p558.png" },
+      { "numero": 2, "image": "/quran-revision/img/p559.png" }
+    ],
+    "traduction": "Ô Prophète ! Quand vous répudiez les femmes...",
+    "audio": "assets/audio/at-talaq.mp3"
+  },
+  {
+    "numero": 64,
+    "nom": "At-Taghabun",
+    "titre": "سورة التغابن",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p556.png" },
+      { "numero": 2, "image": "/quran-revision/img/p557.png" }
+    ],
+    "traduction": "Tout ce qui est dans les cieux et sur la terre glorifie Allah...",
+    "audio": "assets/audio/at-taghabun.mp3"
+  },
+  {
+    "numero": 63,
+    "nom": "Al-Munafiqun",
+    "titre": "سورة المنافقون",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p554.png" },
+      { "numero": 2, "image": "/quran-revision/img/p555.png" }
+    ],
+    "traduction": "Quand les hypocrites viennent à toi, ils disent...",
+    "audio": "assets/audio/al-munafiqun.mp3"
+  },
+  {
+    "numero": 62,
+    "nom": "Al-Jumu'ah",
+    "titre": "سورة الجمعة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p553.png" },
+      { "numero": 2, "image": "/quran-revision/img/p554.png" }
+    ],
+    "traduction": "Ce qui est dans les cieux et sur la terre glorifie Allah...",
+    "audio": "assets/audio/al-jumuah.mp3"
+  },
+  {
+    "numero": 61,
+    "nom": "As-Saff",
+    "titre": "سورة الصف",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p551.png" },
+      { "numero": 2, "image": "/quran-revision/img/p552.png" }
+    ],
+    "traduction": "Ce qui est dans les cieux et sur la terre glorifie Allah...",
+    "audio": "assets/audio/as-saff.mp3"
+  },
+  {
+    "numero": 60,
+    "nom": "Al-Mumtahanah",
+    "titre": "سورة الممتحنة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p549.png" },
+      { "numero": 2, "image": "/quran-revision/img/p550.png" },
+      { "numero": 3, "image": "/quran-revision/img/p551.png" }
+    ],
+    "traduction": "Ô vous qui avez cru ! Ne prenez pas pour alliés mes ennemis...",
+    "audio": "assets/audio/al-mumtahanah.mp3"
+  },
+  {
+    "numero": 59,
+    "nom": "Al-Hashr",
+    "titre": "سورة الحشر",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p545.png" },
+      { "numero": 2, "image": "/quran-revision/img/p546.png" },
+      { "numero": 3, "image": "/quran-revision/img/p547.png" },
+      { "numero": 4, "image": "/quran-revision/img/p548.png" }
+    ],
+    "traduction": "Ce qui est dans les cieux et sur la terre glorifie Allah...",
+    "audio": "assets/audio/al-hashr.mp3"
+  },
+  {
+    "numero": 58,
+    "nom": "Al-Mujadila",
+    "titre": "سورة المجادلة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p542.png" },
+      { "numero": 2, "image": "/quran-revision/img/p543.png" },
+      { "numero": 3, "image": "/quran-revision/img/p544.png" },
+      { "numero": 4, "image": "/quran-revision/img/p545.png" }
+    ],
+    "traduction": "Allah a entendu la parole de celle qui discutait...",
+    "audio": "assets/audio/al-mujadila.mp3"
   }
 ]
