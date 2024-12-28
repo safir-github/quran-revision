@@ -4,7 +4,7 @@
     "nom": "An-Nas",
     "titre": "سورة الناس",
     "pages": [
-      { "numero": 1, "image": "img/s114-version2.png" }
+      { "numero": 1, "image": "/quran-revision/img/s114-version2.png" }
     ],
     "traduction": "Dis : « Je cherche protection auprès du Seigneur des hommes, Roi des hommes, Dieu des hommes, contre le mal du mauvais conseiller, furtif, qui souffle le mal dans les poitrines des hommes, qu’il (le conseiller) soit un djinn, ou un humain ».",
     "audio": "assets/audio/an-nas.mp3"
