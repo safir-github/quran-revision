@@ -1,0 +1,380 @@
+[
+  {
+    "numero": 114,
+    "nom": "An-Nas",
+    "titre": "سورة الناس",
+    "pages": [
+      { "numero": 1, "image": "/img/s114-version2.png" }
+    ],
+    "traduction": "Dis : « Je cherche protection auprès du Seigneur des hommes, Roi des hommes, Dieu des hommes, contre le mal du mauvais conseiller, furtif, qui souffle le mal dans les poitrines des hommes, qu’il (le conseiller) soit un djinn, ou un humain ».",
+    "audio": "assets/audio/an-nas.mp3"
+  },
+  {
+    "numero": 113,
+    "nom": "Al-Falaq",
+    "titre": "سورة الفلق",
+    "pages": [
+      { "numero": 1, "image": "/img/s114-version2.png" }
+    ],
+    "traduction": "Dis : « Je cherche protection auprès du Seigneur de l’aube naissante...»",
+    "audio": "assets/audio/al-falaq.mp3"
+  },
+  {
+    "numero": 112,
+    "nom": "Al-Ikhlas",
+    "titre": "سورة الإخلاص",
+    "pages": [
+      { "numero": 1, "image": "/img/s114-version2.png" }
+    ],
+    "traduction": "Dis : « Il est Allah, Unique, Allah, le Souverain, Il n’a jamais engendré, n’a pas été engendré, et nul n’est égal à Lui. »",
+    "audio": "assets/audio/al-ikhlas.mp3"
+  },
+  {
+    "numero": 111,
+    "nom": "Al-Masad",
+    "titre": "سورة المسد",
+    "pages": [
+      { "numero": 1, "image": "/img/s109.png" }
+    ],
+    "traduction": "Que périssent les deux mains d’Abu Lahab et que lui-même périsse...",
+    "audio": "assets/audio/al-masad.mp3"
+  },
+  {
+    "numero": 110,
+    "nom": "An-Nasr",
+    "titre": "سورة النصر",
+    "pages": [
+      { "numero": 1, "image": "/img/s109.png" }
+    ],
+    "traduction": "Lorsque vient le secours d’Allah ainsi que la victoire...",
+    "audio": "assets/audio/an-nasr.mp3"
+  },
+  {
+    "numero": 109,
+    "nom": "Al-Kafirun",
+    "titre": "سورة الكافرون",
+    "pages": [
+      { "numero": 1, "image": "/img/s109.png" }
+    ],
+    "traduction": "Dis : « Ô vous les infidèles...",
+    "audio": "assets/audio/al-kafirun.mp3"
+  },
+  {
+    "numero": 108,
+    "nom": "Al-Kawthar",
+    "titre": "سورة الكوثر",
+    "pages": [
+      { "numero": 1, "image": "/img/s106.png" }
+    ],
+    "traduction": "Certes, Nous t’avons accordé l’abondance...",
+    "audio": "assets/audio/al-kawthar.mp3"
+  },
+  {
+    "numero": 107,
+    "nom": "Al-Ma'un",
+    "titre": "سورة الماعون",
+    "pages": [
+      { "numero": 1, "image": "/img/s106.png" }
+    ],
+    "traduction": "Vois-tu celui qui traite de mensonge la rétribution ?...",
+    "audio": "assets/audio/al-maun.mp3"
+  },
+  {
+    "numero": 106,
+    "nom": "Quraish",
+    "titre": "سورة قريش",
+    "pages": [
+      { "numero": 1, "image": "/img/s106.png" }
+    ],
+    "traduction": "Pour la protection des Quraish...",
+    "audio": "assets/audio/quraish.mp3"
+  },
+  {
+    "numero": 105,
+    "nom": "Al-Fil",
+    "titre": "سورة الفيل",
+    "pages": [
+      { "numero": 1, "image": "/img/s103.png" }
+    ],
+    "traduction": "N’as-tu pas vu comment ton Seigneur a agi envers les gens de l’Éléphant ?...",
+    "audio": "assets/audio/al-fil.mp3"
+  },
+  {
+    "numero": 104,
+    "nom": "Al-Humazah",
+    "titre": "سورة الهمزة",
+    "pages": [
+      { "numero": 1, "image": "/img/s103.png" }
+    ],
+    "traduction": "Malheur à tout dénigreur calomniateur...",
+    "audio": "assets/audio/al-humazah.mp3"
+  },
+  {
+    "numero": 103,
+    "nom": "Al-Asr",
+    "titre": "سورة العصر",
+    "pages": [
+      { "numero": 1, "image": "/img/s103.png" }
+    ],
+    "traduction": "Par le Temps !...",
+    "audio": "assets/audio/al-asr.mp3"
+  },
+  {
+    "numero": 102,
+    "nom": "At-Takathur",
+    "titre": "سورة التكاثر",
+    "pages": [
+      { "numero": 1, "image": "/img/s101.png" }
+    ],
+    "traduction": "La course aux richesses vous distrait...",
+    "audio": "assets/audio/at-takathur.mp3"
+  },
+  {
+    "numero": 101,
+    "nom": "Al-Qari'ah",
+    "titre": "سورة القارعة",
+    "pages": [
+      { "numero": 1, "image": "/img/s101.png" }
+    ],
+    "traduction": "Le fracas !...",
+    "audio": "assets/audio/al-qariah.mp3"
+  },
+  {
+    "numero": 100,
+    "nom": "Al-Adiyat",
+    "titre": "سورة العاديات",
+    "pages": [
+      { "numero": 1, "image": "/img/s100-p1.png" },
+      { "numero": 2, "image": "/img/s101.png" }
+    ],
+    "traduction": "Par les coursiers qui halètent...",
+    "audio": "assets/audio/al-adiyat.mp3"
+  },
+  {
+    "numero": 99,
+    "nom": "Az-Zalzalah",
+    "titre": "سورة الزلزلة",
+    "pages": [
+      { "numero": 1, "image": "/img/s100-p1.png" }
+    ],
+    "traduction": "Lorsque la terre tremblera de son tremblement...",
+    "audio": "assets/audio/az-zalzalah.mp3"
+  },
+  {
+    "numero": 98,
+    "nom": "Al-Bayyina",
+    "titre": "سورة البينة",
+    "pages": [
+      { "numero": 1, "image": "/img/s97.png" },
+      { "numero": 2, "image": "/img/s100-p1.png" }
+    ],
+    "traduction": "Les infidèles parmi les gens du Livre et les associateurs...",
+    "audio": "assets/audio/al-bayyina.mp3"
+  },
+  {
+    "numero": 97,
+    "nom": "Al-Qadr",
+    "titre": "سورة القدر",
+    "pages": [
+      { "numero": 1, "image": "/img/s97.png" }
+    ],
+    "traduction": "Nous l’avons certes, fait descendre pendant la Nuit du Destin...",
+    "audio": "assets/audio/al-qadr.mp3"
+  },
+  {
+    "numero": 96,
+    "nom": "Al-'Alaq",
+    "titre": "سورة العلق",
+    "pages": [
+      { "numero": 1, "image": "/img/s95.png" }
+    ],
+    "traduction": "Lis, au nom de ton Seigneur qui a créé...",
+    "audio": "assets/audio/al-alaq.mp3"
+  },
+  {
+    "numero": 95,
+    "nom": "At-Tin",
+    "titre": "سورة التين",
+    "pages": [
+      { "numero": 1, "image": "/img/s95.png" }
+    ],
+    "traduction": "Par le figuier et l’olivier...",
+    "audio": "assets/audio/at-tin.mp3"
+  },
+  {
+    "numero": 94,
+    "nom": "Ash-Sharh",
+    "titre": "سورة الشرح",
+    "pages": [
+      { "numero": 1, "image": "/img/p596.png" }
+    ],
+    "traduction": "N’avons-Nous pas ouvert pour toi ta poitrine ?...",
+    "audio": "assets/audio/ash-sharh.mp3"
+  },
+  {
+    "numero": 93,
+    "nom": "Ad-Duha",
+    "titre": "سورة الضحى",
+    "pages": [
+      { "numero": 1, "image": "/img/p596.png" }
+    ],
+    "traduction": "Par le jour montant...",
+    "audio": "assets/audio/ad-duha.mp3"
+  },
+  {
+    "numero": 92,
+    "nom": "Al-Lail",
+    "titre": "سورة الليل",
+    "pages": [
+      { "numero": 1, "image": "/img/p595.png" },
+      { "numero": 2, "image": "/img/p596.png" }
+    ],
+    "traduction": "Par la nuit quand elle couvre tout !...",
+    "audio": "assets/audio/al-lail.mp3"
+  },
+  {
+    "numero": 91,
+    "nom": "Ash-Shams",
+    "titre": "سورة الشمس",
+    "pages": [
+      { "numero": 1, "image": "/img/p595.png" }
+    ],
+    "traduction": "Par le soleil et sa clarté...",
+    "audio": "assets/audio/ash-shams.mp3"
+  },
+  {
+    "numero": 90,
+    "nom": "Al-Balad",
+    "titre": "سورة البلد",
+    "pages": [
+      { "numero": 1, "image": "/img/p594.png" }
+    ],
+    "traduction": "Non ! Je jure par cette ville...",
+    "audio": "assets/audio/al-balad.mp3"
+  },
+  {
+    "numero": 89,
+    "nom": "Al-Fajr",
+    "titre": "سورة الفجر",
+    "pages": [
+      { "numero": 1, "image": "/img/p593.png" },
+      { "numero": 2, "image": "/img/p594.png" }
+    ],
+    "traduction": "Par l’aube...",
+    "audio": "assets/audio/al-fajr.mp3"
+  },
+  {
+    "numero": 88,
+    "nom": "Al-Ghashiyah",
+    "titre": "سورة الغاشية",
+    "pages": [
+      { "numero": 1, "image": "/img/p592.png" }
+    ],
+    "traduction": "T’est-il parvenu le récit de l’enveloppante ?...",
+    "audio": "assets/audio/al-ghashiyah.mp3"
+  },
+  {
+    "numero": 87,
+    "nom": "Al-A'la",
+    "titre": "سورة الأعلى",
+    "pages": [
+      { "numero": 1, "image": "/img/p591.png" }
+    ],
+    "traduction": "Glorifie le nom de ton Seigneur, le Très-Haut...",
+    "audio": "assets/audio/al-ala.mp3"
+  },
+  {
+    "numero": 86,
+    "nom": "At-Tariq",
+    "titre": "سورة الطارق",
+    "pages": [
+      { "numero": 1, "image": "/img/p591.png" }
+    ],
+    "traduction": "Par le ciel et par l’astre nocturne !...",
+    "audio": "assets/audio/at-tariq.mp3"
+  },
+  {
+    "numero": 85,
+    "nom": "Al-Buruj",
+    "titre": "سورة البروج",
+    "pages": [
+      { "numero": 1, "image": "/img/p590.png" }
+    ],
+    "traduction": "Par le ciel aux constellations...",
+    "audio": "assets/audio/al-buruj.mp3"
+  },
+  {
+    "numero": 84,
+    "nom": "Al-Inshiqaq",
+    "titre": "سورة الانشقاق",
+    "pages": [
+      { "numero": 1, "image": "/img/p589.png" }
+    ],
+    "traduction": "Quand le ciel se fendra...",
+    "audio": "assets/audio/al-inshiqaq.mp3"
+  },
+  {
+    "numero": 83,
+    "nom": "Al-Mutaffifin",
+    "titre": "سورة المطففين",
+    "pages": [
+      { "numero": 1, "image": "/img/p587.png" },
+      { "numero": 2, "image": "/img/p588.png" },
+      { "numero": 3, "image": "/img/p589.png" }
+    ],
+    "traduction": "Malheur aux fraudeurs...",
+    "audio": "assets/audio/al-mutaffifin.mp3"
+  },
+  {
+    "numero": 82,
+    "nom": "Al-Infitar",
+    "titre": "سورة الانفطار",
+    "pages": [
+      { "numero": 1, "image": "/img/p587.png" }
+    ],
+    "traduction": "Quand le ciel se fendra...",
+    "audio": "assets/audio/al-infitar.mp3"
+  },
+  {
+    "numero": 81,
+    "nom": "At-Takwir",
+    "titre": "سورة التكوير",
+    "pages": [
+      { "numero": 1, "image": "/img/p586.png" }
+    ],
+    "traduction": "Quand le soleil sera enroulé...",
+    "audio": "assets/audio/at-takwir.mp3"
+  },
+  {
+    "numero": 80,
+    "nom": "Abasa",
+    "titre": "سورة عبس",
+    "pages": [
+      { "numero": 1, "image": "/img/p585.png" }
+    ],
+    "traduction": "Il s’est renfrogné et il s’est écarté...",
+    "audio": "assets/audio/abasa.mp3"
+  },
+  {
+    "numero": 79,
+    "nom": "An-Nazi'at",
+    "titre": "سورة النازعات",
+    "pages": [
+      { "numero": 1, "image": "/img/p583.png" },
+      { "numero": 2, "image": "/img/p584.png" }
+    ],
+    "traduction": "Par ceux qui arrachent violemment...",
+    "audio": "assets/audio/an-naziat.mp3"
+  },
+  {
+    "numero": 78,
+    "nom": "An-Naba",
+    "titre": "سورة النبأ",
+    "pages": [
+      { "numero": 1, "image": "/img/s78-p1.png" },
+      { "numero": 2, "image": "/img/s78-p2.png" }
+    ],
+    "traduction": "Sur quoi s’interrogent-ils mutuellement ?...",
+    "audio": "assets/audio/an-naba.mp3"
+  }
+]
