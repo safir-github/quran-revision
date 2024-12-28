@@ -376,5 +376,132 @@
     ],
     "traduction": "Sur quoi s’interrogent-ils mutuellement ?...",
     "audio": "assets/audio/an-naba.mp3"
+  },
+  {
+    "numero": 77,
+    "nom": "Al-Mursalat",
+    "titre": "سورة المرسلات",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p580.png" },
+      { "numero": 2, "image": "/quran-revision/img/p581.png" }
+    ],
+    "traduction": "Par les envoyés successifs...",
+    "audio": "assets/audio/al-mursalat.mp3"
+  },
+  {
+    "numero": 76,
+    "nom": "Al-Insan",
+    "titre": "سورة الإنسان",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p578.png" },
+      { "numero": 2, "image": "/quran-revision/img/p579.png" },
+      { "numero": 3, "image": "/quran-revision/img/p580.png" }
+    ],
+    "traduction": "Ne s'est-il pasécoulé pour l'homme...",
+    "audio": "assets/audio/al-insan.mp3"
+  },
+  {
+    "numero": 75,
+    "nom": "Al-Qiyamah",
+    "titre": "سورة القيامة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p577.png" },
+      { "numero": 2, "image": "/quran-revision/img/p578.png" }
+    ],
+    "traduction": "Je jure par le Jour de la Résurrection...",
+    "audio": "assets/audio/al-qiyamah.mp3"
+  },
+  {
+    "numero": 74,
+    "nom": "Al-Muddathir",
+    "titre": "سورة المدثر",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p575.png" },
+      { "numero": 2, "image": "/quran-revision/img/p576.png" },
+      { "numero": 3, "image": "/quran-revision/img/p577.png" }
+    ],
+    "traduction": "Ô toi qui es enveloppé d'un manteau...",
+    "audio": "assets/audio/al-muddathir.mp3"
+  },
+  {
+    "numero": 73,
+    "nom": "Al-Muzzammil",
+    "titre": "سورة المزمل",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p574.png" },
+      { "numero": 2, "image": "/quran-revision/img/p575.png" }
+    ],
+    "traduction": "Ô toi qui es enveloppé dans un manteau...",
+    "audio": "assets/audio/al-muzzammil.mp3"
+  },
+  {
+    "numero": 72,
+    "nom": "Al-Jinn",
+    "titre": "سورة الجن",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p572.png" },
+      { "numero": 2, "image": "/quran-revision/img/p573.png" }
+    ],
+    "traduction": "Dis : Il m'a été révélé qu'un groupe de djinns...",
+    "audio": "assets/audio/al-jinn.mp3"
+  },
+  {
+    "numero": 71,
+    "nom": "Nuh",
+    "titre": "سورة نوح",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p570.png" },
+      { "numero": 2, "image": "/quran-revision/img/p571.png" }
+    ],
+    "traduction": "Nous avons envoyé Noé à son peuple...",
+    "audio": "assets/audio/nuh.mp3"
+  },
+  {
+    "numero": 70,
+    "nom": "Al-Ma'arij",
+    "titre": "سورة المعارج",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p568.png" },
+      { "numero": 2, "image": "/quran-revision/img/p569.png" },
+      { "numero": 3, "image": "/quran-revision/img/p570.png" }
+    ],
+    "traduction": "Un demandeur a demandé un châtiment imminent...",
+    "audio": "assets/audio/al-maarij.mp3"
+  },
+  {
+    "numero": 69,
+    "nom": "Al-Haqqah",
+    "titre": "سورة الحاقة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p566.png" },
+      { "numero": 2, "image": "/quran-revision/img/p567.png" },
+      { "numero": 3, "image": "/quran-revision/img/p568.png" }
+    ],
+    "traduction": "La réalité ! Qu'est-ce que la réalité ?...",
+    "audio": "assets/audio/al-haqqah.mp3"
+  },
+  {
+    "numero": 68,
+    "nom": "Al-Qalam",
+    "titre": "سورة القلم",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p564.png" },
+      { "numero": 2, "image": "/quran-revision/img/p565.png" },
+      { "numero": 3, "image": "/quran-revision/img/p566.png" }
+    ],
+    "traduction": "Par la plume et ce qu'ils écrivent...",
+    "audio": "assets/audio/al-qalam.mp3"
+  },
+  {
+    "numero": 67,
+    "nom": "Al-Mulk",
+    "titre": "سورة الملك",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p562.png" },
+      { "numero": 2, "image": "/quran-revision/img/p563.png" },
+      { "numero": 3, "image": "/quran-revision/img/p564.png" }
+    ],
+    "traduction": "Béni soit Celui dans la main duquel est la royauté...",
+    "audio": "assets/audio/al-mulk.mp3"
   }
 ]

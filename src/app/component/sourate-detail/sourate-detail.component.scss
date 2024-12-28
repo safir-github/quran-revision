@@ -2,10 +2,12 @@
 $primary-color: #f9d0a3;
 $text-color: #151217;
 $bg-color: #A52A2A;
+$bg-color-2: #3D5A6C;
+$card-color: #839788;
 
 // Global styles
 body {
-  background-color: $bg-color;
+  background-color: $bg-color-2;
   color: $text-color;
   font-family: "Arial", sans-serif;
 }
@@ -46,16 +48,18 @@ body {
 
 .sourate-detail {
     padding: 20px; /* Ajuster le padding pour correspondre à la page d'accueil */
-    background-color: $bg-color; /* Couleur de fond douce */
+    background-color: $bg-color-2; /* Couleur de fond douce */
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Aligner le contenu en haut */
     align-items: center; /* Centre le contenu horizontalement */
     min-height: 100vh; /* Prendre toute la hauteur du viewport */
     h1 {
-        color: $primary-color;
+        font-family: Arial, sans-serif;
         font-size: 2.5rem;
         margin-bottom: 20px;
+        color: #F5DEB3;
+        font-weight: 300; /* Rendre le h1 plus fin */
     }
     .text-arabe {
         margin-bottom: 5px;
@@ -74,7 +78,8 @@ body {
         }
     }
     .arrow-link {
-      color: #F5DEB3;
+      color: $primary-color;
+      font-weight: 100; /* Rendre la flèche plus fine */
     }
 }
 
@@ -87,17 +92,15 @@ body {
 }
 
 .btn {
-    background-color: $primary-color; /* Couleur de fond du bouton */
-    color: black; /* Couleur du texte */
-    font-weight: bold; /* Texte en gras */
-    text-decoration: none;
-    padding: 10px 20px;
-    border-radius: 8px;
-    border: none; /* Supprimer la bordure */
-    margin-top: 20px;
-    transition: background-color 0.3s;
-
-    &:hover {
-        background-color: darken($primary-color, 10%); /* Assombrir la couleur au survol */
-    }
+  background-color: $card-color; /* Couleur de fond du bouton */
+  color: #F5DEB3; /* Couleur du texte */
+  font-family: Arial, sans-serif; /* Même police que le nom des sourates */
+  font-size: 1.2rem; /* Même taille que le nom des sourates */
+  font-weight: normal; /* Enlever le gras */
+  text-decoration: none;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
 }
