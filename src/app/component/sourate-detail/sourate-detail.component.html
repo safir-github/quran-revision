@@ -1,28 +1,22 @@
-<div class="sourate-detail container-fluid">
-    <h1 class="text-center">{{ sourate?.nom }}</h1>
+<div class="sourate-detail container-fluid text-center">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <!-- Titre en arabe -->
+      <h1 class="surah-title">{{ sourate.titre }}</h1>
 
-  
-
-    <div class="text-arabe">
-
-
-      <div *ngFor="let verset of sourate?.versets" class="verset">
-
-        <p>{{ verset.numero }}. {{ verset.texte }}</p>
-
+      <!-- Images des pages -->
+      <div class="pages mt-4">
+        <div *ngFor="let page of sourate.pages">
+          <img
+            [src]="page.image"
+            [alt]="'Page ' + page.numero"
+            class="img-fluid mb-3"
+          />
+        </div>
       </div>
 
+      <!-- Bouton Retour -->
+      <a routerLink="/" class="btn btn-primary mt-4">Retour à la liste des sourates</a>
     </div>
-
-  
-    
-
-    
-
-  
-
-    <a routerLink="/" class="btn btn-primary mt-4">Retour à la liste des sourates</a>
-
   </div>
-
-  
+</div>

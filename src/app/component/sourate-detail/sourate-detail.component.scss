@@ -1,107 +1,100 @@
+// Variables
+$primary-color: #f9d0a3;
+$text-color: #151217;
+$bg-color: #A52A2A;
+
+// Global styles
+body {
+  background-color: $bg-color;
+  color: $text-color;
+  font-family: "Arial", sans-serif;
+}
+
+.container-fluid {
+  background-color: $bg-color;
+
+}
+
+// Surah section styles
+.surah-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  color: $text-color;
+}
+
+.surah-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.surah-translation {
+  font-size: 1.2rem;
+  color: darken($text-color, 20%);
+}
+
+.versets {
+  margin-top: 2rem;
+
+  p {
+    font-size: 1.4rem;
+    line-height: 1.8;
+  }
+}
+
 .sourate-detail {
+    padding: 20px; /* Ajuster le padding pour correspondre à la page d'accueil */
+    background-color: $bg-color; /* Couleur de fond douce */
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Centre les enfants verticalement */
-    align-items: center; /* Centre les enfants horizontalement */
-    text-align: center;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background-color: #A52A2A; /* Couleur de fond douce */
-    padding: 20px;
-  
+    justify-content: flex-start; /* Aligner le contenu en haut */
+    align-items: center; /* Centre le contenu horizontalement */
+    min-height: 100vh; /* Prendre toute la hauteur du viewport */
     h1 {
-      color: #F5DEB3;
-      font-size: 2.5rem;
-      margin-bottom: 20px;
+        color: $primary-color;
+        font-size: 2.5rem;
+        margin-bottom: 20px;
     }
-  
     .text-arabe {
-      margin-bottom: 20px;
-      background-color: #F5DEB3; /* Couleur de fond douce */
-      padding: 20px;
-      border: 1px solid #e0d8c8;
-      border-radius: 8px;
-      text-align: center; /* Centrer le texte en arabe */
-      width: 60%;
-  
-      @media (max-width: 768px) {
-        width: 90%; /* Définir la largeur pour les écrans mobiles */
-      }
-  
-      h3 {
-        color: #8e5a3c; /* Couleur principale des titres */
-        font-size: 1.8rem;
-        margin-bottom: 15px;
-        font-family: 'Amiri', serif; /* Police arabe élégante */
-      }
-  
-      .verset p {
-        margin: 0; /* Supprime les marges */
-        padding: 10px 0; /* Espacement vertical léger */
-        line-height: 2.5; /* Ajuste l'interligne */
-        font-size: 2rem; /* Agrandit la taille du texte */
-        text-align: right; /* Aligne le texte à droite pour l'arabe */
-        direction: rtl; /* Définit la direction de lecture pour l'arabe */
-        color: #2c3e50;
-        font-family: 'Amiri', serif; /* Police arabe */
-      }
+        margin-bottom: 5px;
+        background-color: #F5DEB3;
+        padding: 10px;
+        padding-top: 30px;
+        width: 40%;
+        h3 {
+            color: $text-color;
+        }
+        p {
+            font-size: 3rem;
+            line-height: 5rem;
+            color: $text-color;
+            font-family: 'Amiri', serif;
+        }
     }
-  
-    .text-traduction {
-      margin-bottom: 20px;
-      background-color: #f9f1e7;
-      padding: 15px;
-      border: 1px solid #e0d8c8;
-      border-radius: 8px;
-      text-align: justify;
-  
-      h3 {
-        color: #8e5a3c;
-        font-size: 1.5rem;
-        margin-bottom: 10px;
-      }
-  
-      p {
-        font-size: 1.2rem;
-        color: #34495e;
-      }
+}
+
+.pages img {
+    border-radius: 8px; /* Ajouter un border radius aux images */
+}
+
+.pages img {
+    border-radius: 8px; /* Ajouter un border radius aux images */
+}
+
+.btn {
+    background-color: $primary-color; /* Couleur de fond du bouton */
+    color: black; /* Couleur du texte */
+    font-weight: bold; /* Texte en gras */
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none; /* Supprimer la bordure */
+    margin-top: 20px;
+    transition: background-color 0.3s;
+
+    &:hover {
+        background-color: darken($primary-color, 10%); /* Assombrir la couleur au survol */
     }
-  
-    .audio-player {
-      margin-top: 20px;
-  
-      h3 {
-        color: #8e5a3c;
-        font-size: 1.5rem;
-      }
-  
-      audio {
-        width: 100%;
-        max-width: 400px;
-        border: 1px solid #e0d8c8;
-        border-radius: 8px;
-      }
-    }
-  
-    .btn {
-      background-color: #F5DEB3;
-      color: black;
-      text-decoration: none;
-      padding: 10px 20px;
-      border-radius: 8px;
-      font-size: 1rem;
-      margin-top: 20px;
-  
-      &:hover {
-        transform: scale(1.05);
-        text-decoration: none;
-      }
-    }
-  
-    @media (max-width: 768px) {
-      .text-arabe p {
-        font-size: 1.5rem; /* Taille du texte en arabe pour mobile */
-      }
-    }
-  }
-  
+}
