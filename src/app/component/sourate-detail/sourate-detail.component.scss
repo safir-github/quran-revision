@@ -1,88 +1,100 @@
+// Variables
+$primary-color: #f9d0a3;
+$text-color: #151217;
+$bg-color: #A52A2A;
+
+// Global styles
+body {
+  background-color: $bg-color;
+  color: $text-color;
+  font-family: "Arial", sans-serif;
+}
+
+.container-fluid {
+  background-color: $bg-color;
+
+}
+
+// Surah section styles
+.surah-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  color: $text-color;
+}
+
+.surah-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.surah-translation {
+  font-size: 1.2rem;
+  color: darken($text-color, 20%);
+}
+
+.versets {
+  margin-top: 2rem;
+
+  p {
+    font-size: 1.4rem;
+    line-height: 1.8;
+  }
+}
+
 .sourate-detail {
+    padding: 20px; /* Ajuster le padding pour correspondre à la page d'accueil */
+    background-color: $bg-color; /* Couleur de fond douce */
     display: flex;
     flex-direction: column;
-    align-items: center;
-    text-align: center;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background-color: #e0f7fa; /* Couleur douce */
-    padding: 20px;
-  
+    justify-content: flex-start; /* Aligner le contenu en haut */
+    align-items: center; /* Centre le contenu horizontalement */
+    min-height: 100vh; /* Prendre toute la hauteur du viewport */
     h1 {
-      color: #2c3e50;
-      font-size: 2.5rem;
-      margin-bottom: 20px;
+        color: $primary-color;
+        font-size: 2.5rem;
+        margin-bottom: 20px;
     }
-  
     .text-arabe {
-      margin-bottom: 20px;
-      background-color: #f9f1e7;
-      padding: 20px;
-      border: 1px solid #e0d8c8;
-      border-radius: 8px;
-      width: 60%;
-      text-align: right; /* Aligner le texte à droite */
-      direction: rtl; /* Direction du texte arabe */
-  
-      @media (max-width: 768px) {
-        width: 90%; /* Adapte la largeur pour mobile */
-      }
-  
-      h3 {
-        color: #8e5a3c;
-        font-size: 1.8rem;
-        margin-bottom: 15px;
-        font-family: 'Amiri Quran', serif; /* Police pour l'arabe */
-      }
-  
-      .verset-container {
-        display: flex;
-        flex-direction: column;
-        gap: 10px; /* Espacement entre les versets */
-      }
-  
-      .verset {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding: 5px;
-        line-height: 2.5;
-        font-size: 1.8rem;
-        color: #2c3e50;
-  
-        .numero {
-          background-color: #fde9d2;
-          color: #8e5a3c;
-          border-radius: 50%;
-          width: 40px;
-          height: 40px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-weight: bold;
-          margin-left: 10px; /* Espacement entre le numéro et le texte */
+        margin-bottom: 5px;
+        background-color: #F5DEB3;
+        padding: 10px;
+        padding-top: 30px;
+        width: 40%;
+        h3 {
+            color: $text-color;
         }
-  
-        .texte {
-          flex: 1;
-          text-align: right; /* Texte aligné à droite */
-          font-family: 'Amiri Quran', serif;
+        p {
+            font-size: 3rem;
+            line-height: 5rem;
+            color: $text-color;
+            font-family: 'Amiri', serif;
         }
-      }
     }
-  
-    .btn {
-      background-color: #8e5a3c;
-      color: white;
-      text-decoration: none;
-      padding: 10px 20px;
-      border-radius: 8px;
-      font-size: 1rem;
-  
-      &:hover {
-        background-color: #6f452e;
-        text-decoration: none;
-      }
+}
+
+.pages img {
+    border-radius: 8px; /* Ajouter un border radius aux images */
+}
+
+.pages img {
+    border-radius: 8px; /* Ajouter un border radius aux images */
+}
+
+.btn {
+    background-color: $primary-color; /* Couleur de fond du bouton */
+    color: black; /* Couleur du texte */
+    font-weight: bold; /* Texte en gras */
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none; /* Supprimer la bordure */
+    margin-top: 20px;
+    transition: background-color 0.3s;
+
+    &:hover {
+        background-color: darken($primary-color, 10%); /* Assombrir la couleur au survol */
     }
-  }
-  
+}
