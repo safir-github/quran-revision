@@ -607,5 +607,222 @@
     ],
     "traduction": "Allah a entendu la parole de celle qui discutait...",
     "audio": "assets/audio/al-mujadila.mp3"
+  },
+  {
+    "numero": 57,
+    "nom": "Al-Hadid",
+    "titre": "سورة الحديد",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p537.png" },
+      { "numero": 2, "image": "/quran-revision/img/p538.png" },
+      { "numero": 3, "image": "/quran-revision/img/p539.png" },
+      { "numero": 4, "image": "/quran-revision/img/p540.png" },
+      { "numero": 5, "image": "/quran-revision/img/p541.png" }
+    ],
+    "traduction": "Ce qui est dans les cieux et sur la terre glorifie Allah...",
+    "audio": "assets/audio/al-hadid.mp3"
+  },
+  {
+    "numero": 56,
+    "nom": "Al-Waqi'ah",
+    "titre": "سورة الواقعة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p534.png" },
+      { "numero": 2, "image": "/quran-revision/img/p535.png" },
+      { "numero": 3, "image": "/quran-revision/img/p536.png" },
+      { "numero": 4, "image": "/quran-revision/img/p537.png" }
+    ],
+    "traduction": "Quand l'événement inéluctable arrivera...",
+    "audio": "assets/audio/al-waqiah.mp3"
+  },
+  {
+    "numero": 55,
+    "nom": "Ar-Rahman",
+    "titre": "سورة الرحمن",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p531.png" },
+      { "numero": 2, "image": "/quran-revision/img/p532.png" },
+      { "numero": 3, "image": "/quran-revision/img/p533.png" },
+      { "numero": 4, "image": "/quran-revision/img/p534.png" }
+    ],
+    "traduction": "Le Tout Misericordieux, Il a enseigné le Coran...",
+    "audio": "assets/audio/ar-rahman.mp3"
+  },
+  {
+    "numero": 54,
+    "nom": "Al-Qamar",
+    "titre": "سورة القمر",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p528.png" },
+      { "numero": 2, "image": "/quran-revision/img/p529.png" },
+      { "numero": 3, "image": "/quran-revision/img/p530.png" },
+      { "numero": 4, "image": "/quran-revision/img/p531.png" }
+     
+    ],
+    "traduction": "L'Heure approche et la lune s'est fendue...",
+    "audio": "assets/audio/al-qamar.mp3"
+  },
+  {
+    "numero": 53,
+    "nom": "An-Najm",
+    "titre": "سورة النجم",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p526.png" },
+      { "numero": 2, "image": "/quran-revision/img/p527.png" },
+      { "numero": 3, "image": "/quran-revision/img/p528.png" }
+      
+    ],
+    "traduction": "Par l'étoile lorsqu'elle décline...",
+    "audio": "assets/audio/an-najm.mp3"
+  },
+  {
+    "numero": 52,
+    "nom": "At-Tur",
+    "titre": "سورة الطور",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p523.png" },
+      { "numero": 2, "image": "/quran-revision/img/p524.png" },
+      { "numero": 3, "image": "/quran-revision/img/p525.png" }
+      
+    ],
+    "traduction": "Par la montagne et par un Livre écrit...",
+    "audio": "assets/audio/at-tur.mp3"
+  }, 
+  
+  {
+    "numero": 51,
+    "nom": "Adh-Dhariyat",
+    "titre": "سورة الذاريات",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p520.png" },
+      { "numero": 2, "image": "/quran-revision/img/p521.png" },
+      { "numero": 3, "image": "/quran-revision/img/p522.png" },
+      { "numero": 4, "image": "/quran-revision/img/p523.png" }
+    ],
+    "traduction": "Par les vents qui éparpillent...",
+    "audio": "assets/audio/adh-dhariyat.mp3"
+  },
+  {
+    "numero": 50,
+    "nom": "Qaf",
+    "titre": "سورة ق",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p518.png" },
+      { "numero": 2, "image": "/quran-revision/img/p519.png" },
+      { "numero": 3, "image": "/quran-revision/img/p520.png" }
+    ],
+    "traduction": "Par le Coran glorieux...",
+    "audio": "assets/audio/qaf.mp3"
+  },
+  {
+    "numero": 49,
+    "nom": "Al-Hujurat",
+    "titre": "سورة الحجرات",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p515.png" },
+      { "numero": 2, "image": "/quran-revision/img/p516.png" },
+      { "numero": 3, "image": "/quran-revision/img/p517.png" }
+    ],
+    "traduction": "Ô vous qui avez cru ! Ne devancez pas Allah et Son Messager...",
+    "audio": "assets/audio/al-hujurat.mp3"
+  },
+  {
+    "numero": 48,
+    "nom": "Al-Fath",
+    "titre": "سورة الفتح",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p511.png" },
+      { "numero": 2, "image": "/quran-revision/img/p512.png" },
+      { "numero": 3, "image": "/quran-revision/img/p513.png" },
+      { "numero": 4, "image": "/quran-revision/img/p514.png" },
+      { "numero": 5, "image": "/quran-revision/img/p515.png" }
+    ],
+    "traduction": "En vérité, Nous t'avons accordé une victoire éclatante...",
+    "audio": "assets/audio/al-fath.mp3"
+  },
+  {
+    "numero": 47,
+    "nom": "Muhammad",
+    "titre": "سورة محمد",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p507.png" },
+      { "numero": 2, "image": "/quran-revision/img/p508.png" },
+      { "numero": 3, "image": "/quran-revision/img/p509.png" },
+      { "numero": 4, "image": "/quran-revision/img/p510.png" }
+    ],
+    "traduction": "Ceux qui ont mécru et obstruent la voie d'Allah...",
+    "audio": "assets/audio/muhammad.mp3"
+  },
+  {
+    "numero": 46,
+    "nom": "Al-Ahqaf",
+    "titre": "سورة الأحقاف",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p502.png" },
+      { "numero": 2, "image": "/quran-revision/img/p503.png" },
+      { "numero": 3, "image": "/quran-revision/img/p504.png" },
+      { "numero": 4, "image": "/quran-revision/img/p505.png" },
+      { "numero": 5, "image": "/quran-revision/img/p506.png" }
+      
+    ],
+    "traduction": "Ha Mim. La révélation du Livre vient d'Allah...",
+    "audio": "assets/audio/al-ahqaf.mp3"
+  },
+  {
+    "numero": 45,
+    "nom": "Al-Jathiyah",
+    "titre": "سورة الجاثية",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p499.png" },
+      { "numero": 2, "image": "/quran-revision/img/p500.png" },
+      { "numero": 3, "image": "/quran-revision/img/p501.png" },
+      { "numero": 4, "image": "/quran-revision/img/p502.png" }
+    ],
+    "traduction": "Ha Mim. La révélation du Livre vient d'Allah...",
+    "audio": "assets/audio/al-jathiyah.mp3"
+  },
+  {
+    "numero": 44,
+    "nom": "Ad-Dukhan",
+    "titre": "سورة الدخان",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p496.png" },
+      { "numero": 2, "image": "/quran-revision/img/p497.png" },
+      { "numero": 3, "image": "/quran-revision/img/p498.png" }
+    ],
+    "traduction": "Ha Mim. Par le Livre explicite...",
+    "audio": "assets/audio/ad-dukhan.mp3"
+  },
+  {
+    "numero": 43,
+    "nom": "Az-Zukhruf",
+    "titre": "سورة الزخرف",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p489.png" },
+      { "numero": 2, "image": "/quran-revision/img/p490.png" },
+      { "numero": 3, "image": "/quran-revision/img/p491.png" },
+      { "numero": 4, "image": "/quran-revision/img/p492.png" },
+      { "numero": 5, "image": "/quran-revision/img/p493.png" },
+      { "numero": 6, "image": "/quran-revision/img/p494.png" },
+      { "numero": 7, "image": "/quran-revision/img/p495.png" }
+    ],
+    "traduction": "Ha Mim. Par le Livre explicite...",
+    "audio": "assets/audio/az-zukhruf.mp3"
+  },
+  {
+    "numero": 42,
+    "nom": "Ash-Shura",
+    "titre": "سورة الشورى",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p483.png" },
+      { "numero": 2, "image": "/quran-revision/img/p484.png" },
+      { "numero": 3, "image": "/quran-revision/img/p485.png" },
+      { "numero": 4, "image": "/quran-revision/img/p486.png" },
+      { "numero": 5, "image": "/quran-revision/img/p487.png" },
+      { "numero": 6, "image": "/quran-revision/img/p488.png" },
+      { "numero": 7, "image": "/quran-revision/img/p489.png" }
+    ],
+    "traduction": "Ha Mim. Ain Sin Qaf. C'est ainsi qu'Allah révèle...",
+    "audio": "assets/audio/ash-shura.mp3"
   }
 ]
