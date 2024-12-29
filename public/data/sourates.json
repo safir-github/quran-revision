@@ -767,5 +767,62 @@
     ],
     "traduction": "Ha Mim. La révélation du Livre vient d'Allah...",
     "audio": "assets/audio/al-ahqaf.mp3"
+  },
+  {
+    "numero": 45,
+    "nom": "Al-Jathiyah",
+    "titre": "سورة الجاثية",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p499.png" },
+      { "numero": 2, "image": "/quran-revision/img/p500.png" },
+      { "numero": 3, "image": "/quran-revision/img/p501.png" },
+      { "numero": 4, "image": "/quran-revision/img/p502.png" }
+    ],
+    "traduction": "Ha Mim. La révélation du Livre vient d'Allah...",
+    "audio": "assets/audio/al-jathiyah.mp3"
+  },
+  {
+    "numero": 44,
+    "nom": "Ad-Dukhan",
+    "titre": "سورة الدخان",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p496.png" },
+      { "numero": 2, "image": "/quran-revision/img/p497.png" },
+      { "numero": 3, "image": "/quran-revision/img/p498.png" }
+    ],
+    "traduction": "Ha Mim. Par le Livre explicite...",
+    "audio": "assets/audio/ad-dukhan.mp3"
+  },
+  {
+    "numero": 43,
+    "nom": "Az-Zukhruf",
+    "titre": "سورة الزخرف",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p489.png" },
+      { "numero": 2, "image": "/quran-revision/img/p490.png" },
+      { "numero": 3, "image": "/quran-revision/img/p491.png" },
+      { "numero": 4, "image": "/quran-revision/img/p492.png" },
+      { "numero": 5, "image": "/quran-revision/img/p493.png" },
+      { "numero": 6, "image": "/quran-revision/img/p494.png" },
+      { "numero": 7, "image": "/quran-revision/img/p495.png" }
+    ],
+    "traduction": "Ha Mim. Par le Livre explicite...",
+    "audio": "assets/audio/az-zukhruf.mp3"
+  },
+  {
+    "numero": 42,
+    "nom": "Ash-Shura",
+    "titre": "سورة الشورى",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p483.png" },
+      { "numero": 2, "image": "/quran-revision/img/p484.png" },
+      { "numero": 3, "image": "/quran-revision/img/p485.png" },
+      { "numero": 4, "image": "/quran-revision/img/p486.png" },
+      { "numero": 5, "image": "/quran-revision/img/p487.png" },
+      { "numero": 6, "image": "/quran-revision/img/p488.png" },
+      { "numero": 7, "image": "/quran-revision/img/p489.png" }
+    ],
+    "traduction": "Ha Mim. Ain Sin Qaf. C'est ainsi qu'Allah révèle...",
+    "audio": "assets/audio/ash-shura.mp3"
   }
 ]
