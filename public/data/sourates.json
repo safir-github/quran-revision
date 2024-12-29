@@ -607,5 +607,85 @@
     ],
     "traduction": "Allah a entendu la parole de celle qui discutait...",
     "audio": "assets/audio/al-mujadila.mp3"
+  },
+  {
+    "numero": 57,
+    "nom": "Al-Hadid",
+    "titre": "سورة الحديد",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p537.png" },
+      { "numero": 2, "image": "/quran-revision/img/p538.png" },
+      { "numero": 3, "image": "/quran-revision/img/p539.png" },
+      { "numero": 4, "image": "/quran-revision/img/p540.png" },
+      { "numero": 5, "image": "/quran-revision/img/p541.png" }
+    ],
+    "traduction": "Ce qui est dans les cieux et sur la terre glorifie Allah...",
+    "audio": "assets/audio/al-hadid.mp3"
+  },
+  {
+    "numero": 56,
+    "nom": "Al-Waqi'ah",
+    "titre": "سورة الواقعة",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p534.png" },
+      { "numero": 2, "image": "/quran-revision/img/p535.png" },
+      { "numero": 3, "image": "/quran-revision/img/p536.png" },
+      { "numero": 4, "image": "/quran-revision/img/p537.png" }
+    ],
+    "traduction": "Quand l'événement inéluctable arrivera...",
+    "audio": "assets/audio/al-waqiah.mp3"
+  },
+  {
+    "numero": 55,
+    "nom": "Ar-Rahman",
+    "titre": "سورة الرحمن",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p531.png" },
+      { "numero": 2, "image": "/quran-revision/img/p532.png" },
+      { "numero": 3, "image": "/quran-revision/img/p533.png" },
+      { "numero": 4, "image": "/quran-revision/img/p534.png" }
+    ],
+    "traduction": "Le Tout Misericordieux, Il a enseigné le Coran...",
+    "audio": "assets/audio/ar-rahman.mp3"
+  },
+  {
+    "numero": 54,
+    "nom": "Al-Qamar",
+    "titre": "سورة القمر",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p528.png" },
+      { "numero": 2, "image": "/quran-revision/img/p529.png" },
+      { "numero": 3, "image": "/quran-revision/img/p530.png" },
+      { "numero": 4, "image": "/quran-revision/img/p531.png" }
+     
+    ],
+    "traduction": "L'Heure approche et la lune s'est fendue...",
+    "audio": "assets/audio/al-qamar.mp3"
+  },
+  {
+    "numero": 53,
+    "nom": "An-Najm",
+    "titre": "سورة النجم",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p526.png" },
+      { "numero": 2, "image": "/quran-revision/img/p527.png" },
+      { "numero": 3, "image": "/quran-revision/img/p528.png" }
+      
+    ],
+    "traduction": "Par l'étoile lorsqu'elle décline...",
+    "audio": "assets/audio/an-najm.mp3"
+  },
+  {
+    "numero": 52,
+    "nom": "At-Tur",
+    "titre": "سورة الطور",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p523.png" },
+      { "numero": 2, "image": "/quran-revision/img/p524.png" },
+      { "numero": 3, "image": "/quran-revision/img/p525.png" }
+      
+    ],
+    "traduction": "Par la montagne et par un Livre écrit...",
+    "audio": "assets/audio/at-tur.mp3"
   }
 ]
