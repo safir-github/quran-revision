@@ -687,5 +687,85 @@
     ],
     "traduction": "Par la montagne et par un Livre écrit...",
     "audio": "assets/audio/at-tur.mp3"
+  }, 
+  
+  {
+    "numero": 51,
+    "nom": "Adh-Dhariyat",
+    "titre": "سورة الذاريات",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p520.png" },
+      { "numero": 2, "image": "/quran-revision/img/p521.png" },
+      { "numero": 3, "image": "/quran-revision/img/p522.png" },
+      { "numero": 4, "image": "/quran-revision/img/p523.png" }
+    ],
+    "traduction": "Par les vents qui éparpillent...",
+    "audio": "assets/audio/adh-dhariyat.mp3"
+  },
+  {
+    "numero": 50,
+    "nom": "Qaf",
+    "titre": "سورة ق",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p518.png" },
+      { "numero": 2, "image": "/quran-revision/img/p519.png" },
+      { "numero": 3, "image": "/quran-revision/img/p520.png" }
+    ],
+    "traduction": "Par le Coran glorieux...",
+    "audio": "assets/audio/qaf.mp3"
+  },
+  {
+    "numero": 49,
+    "nom": "Al-Hujurat",
+    "titre": "سورة الحجرات",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p515.png" },
+      { "numero": 2, "image": "/quran-revision/img/p516.png" },
+      { "numero": 3, "image": "/quran-revision/img/p517.png" }
+    ],
+    "traduction": "Ô vous qui avez cru ! Ne devancez pas Allah et Son Messager...",
+    "audio": "assets/audio/al-hujurat.mp3"
+  },
+  {
+    "numero": 48,
+    "nom": "Al-Fath",
+    "titre": "سورة الفتح",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p511.png" },
+      { "numero": 2, "image": "/quran-revision/img/p512.png" },
+      { "numero": 3, "image": "/quran-revision/img/p513.png" },
+      { "numero": 4, "image": "/quran-revision/img/p514.png" },
+      { "numero": 5, "image": "/quran-revision/img/p515.png" }
+    ],
+    "traduction": "En vérité, Nous t'avons accordé une victoire éclatante...",
+    "audio": "assets/audio/al-fath.mp3"
+  },
+  {
+    "numero": 47,
+    "nom": "Muhammad",
+    "titre": "سورة محمد",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p507.png" },
+      { "numero": 2, "image": "/quran-revision/img/p508.png" },
+      { "numero": 3, "image": "/quran-revision/img/p509.png" },
+      { "numero": 4, "image": "/quran-revision/img/p510.png" }
+    ],
+    "traduction": "Ceux qui ont mécru et obstruent la voie d'Allah...",
+    "audio": "assets/audio/muhammad.mp3"
+  },
+  {
+    "numero": 46,
+    "nom": "Al-Ahqaf",
+    "titre": "سورة الأحقاف",
+    "pages": [
+      { "numero": 1, "image": "/quran-revision/img/p502.png" },
+      { "numero": 2, "image": "/quran-revision/img/p503.png" },
+      { "numero": 3, "image": "/quran-revision/img/p504.png" },
+      { "numero": 4, "image": "/quran-revision/img/p505.png" },
+      { "numero": 5, "image": "/quran-revision/img/p506.png" }
+      
+    ],
+    "traduction": "Ha Mim. La révélation du Livre vient d'Allah...",
+    "audio": "assets/audio/al-ahqaf.mp3"
   }
 ]
